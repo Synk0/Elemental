@@ -3,9 +3,9 @@ Elemental is a flat and transparent theme for macOS system lovers with support f
 
 ### Manual Installation
 To build the theme the follwing packages are required 
-* Run `sudo apt install autoconf automake pkg-config libgtk-3-dev git gnome-themes-standard gtk2-engines-murrine`
+* Run
 
-* `git` to clone the source directory
+`sudo apt install autoconf automake pkg-config libgtk-3-dev git gnome-themes-standard gtk2-engines-murrine git`
 
 #### 1. Get the source
 Clone the git repository with
