@@ -28,8 +28,8 @@ Run
 If you find a bug, please report it at https://github.com/Synk0/Elemental/issues
 
 ## License
-Arc is available under the terms of the GPL-3.0. See `COPYING` for details.
+Arc/Elemental is available under the terms of the GPL-3.0. See `COPYING` for details.
 
 ## Full Preview
 ![A full screenshot of the Elemental theme](http://i.imgur.com/xHOE7fj.png)
-<sub>Screenshot Details: Icons: [Arc](https://github.com/horst3180/arc-icon-theme) | Launcher Icons based on [White Pixel Icons](http://darkdawg.deviantart.com/art/White-Pixel-Icons-252310560) | [Wallpaper](https://pixabay.com/photo-869593/) | Font: Futura Bk bt</sub>
+<sub>Screenshot Details: Icons: [Elemental-Icon](https://github.com/Synk0/Elemental-Icon) | [Wallpaper](https://wallpaperscraft.com/download/clouds_milky_way_eclipse_light_68883/3840x2400) | Font: [Yosemite San Francisco Font](https://github.com/supermarin/YosemiteSanFranciscoFont)</sub>
