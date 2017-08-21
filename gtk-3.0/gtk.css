@@ -4255,7 +4255,6 @@ MarlinViewWindow FMColumnView {
 .panel {
     background-color: transparent;
     color: white;
-    font-weight: bold;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
     icon-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
@@ -4564,14 +4563,12 @@ GtkListBox .h4 {
 #panel_window {
     background-color: rgba(43, 46, 55, 0.95);
     color: #BAC3CF;
-    font: bold;
     box-shadow: inset 0 -1px rgba(27, 29, 35, 0.95);
 }
 #panel_window .menubar,
 #panel_window .menubar > .menuitem {
     background-color: transparent;
     color: #BAC3CF;
-    font: bold;
 }
 #panel_window .menubar .menuitem:insensitive {
     color: rgba(186, 195, 207, 0.5);
@@ -4717,7 +4714,6 @@ GtkListBox .h4 {
 }
 #greeter_infobar {
     border-bottom-width: 0;
-    font: bold;
 }
 .titlebar .separator,
 .titlebar .sidebar .view.separator,
